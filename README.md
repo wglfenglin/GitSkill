@@ -1,3 +1,4 @@
 # GitSkill
-Line of Dev branch 1 and 2
+Line of Dev branch 1
+
 
